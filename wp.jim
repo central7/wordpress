@@ -1,0 +1,6 @@
+wordpress text macros
+
+{%@define javaCode($x)=
+[sourcecode language="java"]
+$x[/sourcecode]
+%}
